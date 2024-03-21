@@ -1,10 +1,11 @@
-# presentacion-
+# Lucía Lugo
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Tengo 24 años y soy de Campana. 
 
-Ya saben usar git!
+- Trabajo en una oficina de ingeniería civil y agrimensura. 
+- Tengo dos gatitas llamadas Roma y Mora. 
+- Me gusta programar pero no soy fan.
+- 
+  
+
+
